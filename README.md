@@ -1,18 +1,18 @@
 # Lunice
 #### Simple URL Shortner and URL Click Tracking tool
 
-*TODO* Wanna see Lunice in action? [Try the demo](https://github.com/brunohq/lunice)
+*TODO* Wanna see Lunice in action? [Try the demo](https://github.com/bilarsolutions/lunice-ruby)
 
 ## Features
 
-- Create short links with your own custom domain (e.g. http://luni.ce/x83)
+- Create short links with your own custom domain (e.g. http://bil.ar/x83)
 - Generate custom URLs for specific Entities (person, company or campaign)
 - Track link clicks: Entity, date & time, location, ip address
 
 ## Getting Started
 
 ```bash
-git clone https://github.com/brunohq/lunice.git
+git clone https://github.com/bilarsolutions/lunice-ruby.git
 bundle install
 rake db:migrate
 rails s
@@ -51,5 +51,3 @@ And, now you're ready to go!
 
 Lunice is currently in BETA. If you'd like to contribute or if you have any suggestions, open an issue, make a PR or holla at me.
 
-With love, 
-[@brunohq](http://twitter.com/brunohq)
